@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\08_IsoscelesTriangle\bin\Debug\08_IsoscelesTriangle.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\08_IsoscelesTriangle\bin\Debug\08_IsoscelesTriangle.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\08_IsoscelesTriangle\bin\Debug\08_IsoscelesTriangle.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\08_IsoscelesTriangle\obj\Debug\08_IsoscelesTriangle.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\08_IsoscelesTriangle\obj\Debug\08_IsoscelesTriangle.pdb

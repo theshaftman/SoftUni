@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\04_MultiplicationSign\bin\Debug\04_MultiplicationSign.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\04_MultiplicationSign\bin\Debug\04_MultiplicationSign.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\04_MultiplicationSign\bin\Debug\04_MultiplicationSign.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\04_MultiplicationSign\obj\Debug\04_MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\04_MultiplicationSign\obj\Debug\04_MultiplicationSign.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\04_MultiplicationSign\obj\Debug\04_MultiplicationSign.pdb

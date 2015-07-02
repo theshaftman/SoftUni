@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\08_DigitAsWord\bin\Debug\08_DigitAsWord.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\08_DigitAsWord\obj\Debug\08_DigitAsWord.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\08_DigitAsWord\obj\Debug\08_DigitAsWord.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\12_ProgrammerDNA\bin\Debug\12_ProgrammerDNA.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\12_ProgrammerDNA\bin\Debug\12_ProgrammerDNA.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\12_ProgrammerDNA\bin\Debug\12_ProgrammerDNA.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\12_ProgrammerDNA\obj\Debug\12_ProgrammerDNA.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\12_ProgrammerDNA\obj\Debug\12_ProgrammerDNA.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\12_ProgrammerDNA\obj\Debug\12_ProgrammerDNA.pdb

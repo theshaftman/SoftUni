@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\06_TheBiggestOfFive\bin\Debug\06_TheBiggestOfFive.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\06_TheBiggestOfFive\bin\Debug\06_TheBiggestOfFive.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\06_TheBiggestOfFive\bin\Debug\06_TheBiggestOfFive.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\06_TheBiggestOfFive\obj\Debug\06_TheBiggestOfFive.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\06_TheBiggestOfFive\obj\Debug\06_TheBiggestOfFive.pdb

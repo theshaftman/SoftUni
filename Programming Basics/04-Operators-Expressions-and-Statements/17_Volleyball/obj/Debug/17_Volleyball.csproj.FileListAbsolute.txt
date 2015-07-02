@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\17_Volleyball\bin\Debug\17_Volleyball.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\17_Volleyball\bin\Debug\17_Volleyball.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\17_Volleyball\bin\Debug\17_Volleyball.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\17_Volleyball\obj\Debug\17_Volleyball.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\17_Volleyball\obj\Debug\17_Volleyball.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\17_Volleyball\obj\Debug\17_Volleyball.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\01_DeclareVariables\bin\Debug\01_DeclareVariables.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\01_DeclareVariables\bin\Debug\01_DeclareVariables.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\01_DeclareVariables\bin\Debug\01_DeclareVariables.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\01_DeclareVariables\obj\Debug\01_DeclareVariables.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\01_DeclareVariables\obj\Debug\01_DeclareVariables.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\03_LongestAreaInArray\bin\Debug\03_LongestAreaInArray.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\03_LongestAreaInArray\bin\Debug\03_LongestAreaInArray.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\03_LongestAreaInArray\bin\Debug\03_LongestAreaInArray.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\03_LongestAreaInArray\obj\Debug\03_LongestAreaInArray.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\03_LongestAreaInArray\obj\Debug\03_LongestAreaInArray.pdb

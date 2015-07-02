@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\17_BitKiller\bin\Debug\17_BitKiller.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\17_BitKiller\bin\Debug\17_BitKiller.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\17_BitKiller\bin\Debug\17_BitKiller.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\17_BitKiller\obj\Debug\17_BitKiller.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\17_BitKiller\obj\Debug\17_BitKiller.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\17_BitKiller\obj\Debug\17_BitKiller.pdb

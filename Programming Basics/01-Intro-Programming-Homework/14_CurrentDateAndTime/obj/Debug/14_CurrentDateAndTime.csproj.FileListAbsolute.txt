@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_02\Intro-Programming-Homework\14_CurrentDateAndTime\bin\Debug\14_CurrentDateAndTime.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_02\Intro-Programming-Homework\14_CurrentDateAndTime\bin\Debug\14_CurrentDateAndTime.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_02\Intro-Programming-Homework\14_CurrentDateAndTime\bin\Debug\14_CurrentDateAndTime.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_02\Intro-Programming-Homework\14_CurrentDateAndTime\obj\Debug\14_CurrentDateAndTime.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_02\Intro-Programming-Homework\14_CurrentDateAndTime\obj\Debug\14_CurrentDateAndTime.pdb

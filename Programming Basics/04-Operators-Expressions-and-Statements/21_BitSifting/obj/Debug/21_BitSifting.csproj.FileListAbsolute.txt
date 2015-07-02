@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\21_BitSifting\bin\Debug\21_BitSifting.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\21_BitSifting\obj\Debug\21_BitSifting.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\21_BitSifting\bin\Debug\21_BitSifting.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\21_BitSifting\bin\Debug\21_BitSifting.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\21_BitSifting\obj\Debug\21_BitSifting.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\21_BitSifting\obj\Debug\21_BitSifting.pdb

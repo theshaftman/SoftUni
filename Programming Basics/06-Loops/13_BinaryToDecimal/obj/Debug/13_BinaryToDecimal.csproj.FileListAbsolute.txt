@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\13_BinaryToDecimal\bin\Debug\13_BinaryToDecimal.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\13_BinaryToDecimal\bin\Debug\13_BinaryToDecimal.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\13_BinaryToDecimal\bin\Debug\13_BinaryToDecimal.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\13_BinaryToDecimal\obj\Debug\13_BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\13_BinaryToDecimal\obj\Debug\13_BinaryToDecimal.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\13_BinaryToDecimal\obj\Debug\13_BinaryToDecimal.pdb

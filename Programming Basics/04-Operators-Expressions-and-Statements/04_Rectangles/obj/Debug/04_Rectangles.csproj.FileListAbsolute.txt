@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\04_Rectangles\bin\Debug\04_Rectangles.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\04_Rectangles\bin\Debug\04_Rectangles.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\04_Rectangles\bin\Debug\04_Rectangles.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\04_Rectangles\obj\Debug\04_Rectangles.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\04_Rectangles\obj\Debug\04_Rectangles.pdb

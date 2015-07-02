@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_04\Console-Input-Output\14_SumOfElements\bin\Debug\14_SumOfElements.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_04\Console-Input-Output\14_SumOfElements\bin\Debug\14_SumOfElements.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_04\Console-Input-Output\14_SumOfElements\bin\Debug\14_SumOfElements.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_04\Console-Input-Output\14_SumOfElements\obj\Debug\14_SumOfElements.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_04\Console-Input-Output\14_SumOfElements\obj\Debug\14_SumOfElements.pdb

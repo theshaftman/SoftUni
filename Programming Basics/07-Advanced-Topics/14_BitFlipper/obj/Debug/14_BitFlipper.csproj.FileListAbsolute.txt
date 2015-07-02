@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\14_BitFlipper\bin\Debug\14_BitFlipper.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\14_BitFlipper\bin\Debug\14_BitFlipper.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\14_BitFlipper\bin\Debug\14_BitFlipper.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\14_BitFlipper\obj\Debug\14_BitFlipper.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\14_BitFlipper\obj\Debug\14_BitFlipper.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\14_BitFlipper\obj\Debug\14_BitFlipper.csprojResolveAssemblyReference.cache

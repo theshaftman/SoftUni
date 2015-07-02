@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\10_OddAndEvenProduct\bin\Debug\10_OddAndEvenProduct.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\10_OddAndEvenProduct\bin\Debug\10_OddAndEvenProduct.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\10_OddAndEvenProduct\bin\Debug\10_OddAndEvenProduct.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\10_OddAndEvenProduct\obj\Debug\10_OddAndEvenProduct.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\10_OddAndEvenProduct\obj\Debug\10_OddAndEvenProduct.pdb

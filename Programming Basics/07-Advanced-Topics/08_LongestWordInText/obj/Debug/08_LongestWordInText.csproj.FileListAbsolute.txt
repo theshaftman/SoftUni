@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\08_LongestWordInText\bin\Debug\08_LongestWordInText.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\08_LongestWordInText\bin\Debug\08_LongestWordInText.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\08_LongestWordInText\bin\Debug\08_LongestWordInText.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\08_LongestWordInText\obj\Debug\08_LongestWordInText.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\08_LongestWordInText\obj\Debug\08_LongestWordInText.pdb

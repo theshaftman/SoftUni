@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\07_JoinLists\bin\Debug\07_JoinLists.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\07_JoinLists\bin\Debug\07_JoinLists.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\07_JoinLists\bin\Debug\07_JoinLists.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\07_JoinLists\obj\Debug\07_JoinLists.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\07_JoinLists\obj\Debug\07_JoinLists.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\07_JoinLists\obj\Debug\07_JoinLists.pdb

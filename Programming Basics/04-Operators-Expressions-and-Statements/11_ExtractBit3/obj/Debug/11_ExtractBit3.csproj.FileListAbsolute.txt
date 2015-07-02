@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\11_ExtractBit3\bin\Debug\11_ExtractBit3.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\11_ExtractBit3\bin\Debug\11_ExtractBit3.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\11_ExtractBit3\bin\Debug\11_ExtractBit3.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\11_ExtractBit3\obj\Debug\11_ExtractBit3.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\11_ExtractBit3\obj\Debug\11_ExtractBit3.pdb

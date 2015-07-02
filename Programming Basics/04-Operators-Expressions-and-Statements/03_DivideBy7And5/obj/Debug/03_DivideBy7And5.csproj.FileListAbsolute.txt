@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\03_DivideBy7And5\bin\Debug\03_DivideBy7And5.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\03_DivideBy7And5\bin\Debug\03_DivideBy7And5.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\03_DivideBy7And5\bin\Debug\03_DivideBy7And5.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\03_DivideBy7And5\obj\Debug\03_DivideBy7And5.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\03_DivideBy7And5\obj\Debug\03_DivideBy7And5.pdb

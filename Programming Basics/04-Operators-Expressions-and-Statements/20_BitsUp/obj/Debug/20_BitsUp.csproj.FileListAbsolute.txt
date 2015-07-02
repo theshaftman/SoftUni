@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\20_BitsUp\bin\Debug\20_BitsUp.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\20_BitsUp\obj\Debug\20_BitsUp.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\20_BitsUp\bin\Debug\20_BitsUp.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\20_BitsUp\bin\Debug\20_BitsUp.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\20_BitsUp\obj\Debug\20_BitsUp.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_05\Operators-Expressions-and-Statements\20_BitsUp\obj\Debug\20_BitsUp.pdb

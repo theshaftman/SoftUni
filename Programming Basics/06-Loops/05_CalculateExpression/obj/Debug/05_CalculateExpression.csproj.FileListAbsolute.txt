@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\05_CalculateExpression\bin\Debug\05_CalculateExpression.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\05_CalculateExpression\bin\Debug\05_CalculateExpression.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\05_CalculateExpression\bin\Debug\05_CalculateExpression.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\05_CalculateExpression\obj\Debug\05_CalculateExpression.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\05_CalculateExpression\obj\Debug\05_CalculateExpression.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\11_StudentCables\bin\Debug\11_StudentCables.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\11_StudentCables\bin\Debug\11_StudentCables.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\11_StudentCables\bin\Debug\11_StudentCables.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\11_StudentCables\obj\Debug\11_StudentCables.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\11_StudentCables\obj\Debug\11_StudentCables.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\11_StudentCables\obj\Debug\11_StudentCables.pdb

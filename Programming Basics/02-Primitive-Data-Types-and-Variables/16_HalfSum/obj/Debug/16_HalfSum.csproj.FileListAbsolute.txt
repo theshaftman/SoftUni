@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\16_HalfSum\bin\Debug\16_HalfSum.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\16_HalfSum\bin\Debug\16_HalfSum.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\16_HalfSum\bin\Debug\16_HalfSum.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\16_HalfSum\obj\Debug\16_HalfSum.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_03\Primitive-Data-Types-and-Variables\16_HalfSum\obj\Debug\16_HalfSum.pdb

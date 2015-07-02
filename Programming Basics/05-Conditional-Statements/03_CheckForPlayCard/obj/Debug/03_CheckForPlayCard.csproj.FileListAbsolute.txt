@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\03_CheckForPlayCard\bin\Debug\03_CheckForPlayCard.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\03_CheckForPlayCard\bin\Debug\03_CheckForPlayCard.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\03_CheckForPlayCard\bin\Debug\03_CheckForPlayCard.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\03_CheckForPlayCard\obj\Debug\03_CheckForPlayCard.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_06\Conditional-Statements\03_CheckForPlayCard\obj\Debug\03_CheckForPlayCard.pdb

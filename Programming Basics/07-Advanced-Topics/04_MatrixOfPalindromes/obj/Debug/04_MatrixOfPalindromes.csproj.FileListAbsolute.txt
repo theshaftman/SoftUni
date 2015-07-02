@@ -1,0 +1,5 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\04_MatrixOfPalindromes\bin\Debug\04_MatrixOfPalindromes.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\04_MatrixOfPalindromes\bin\Debug\04_MatrixOfPalindromes.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\04_MatrixOfPalindromes\bin\Debug\04_MatrixOfPalindromes.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\04_MatrixOfPalindromes\obj\Debug\04_MatrixOfPalindromes.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_08\Advanced-Topics\04_MatrixOfPalindromes\obj\Debug\04_MatrixOfPalindromes.pdb

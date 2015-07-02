@@ -1,0 +1,6 @@
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\21_OddEvenElements\bin\Debug\21_OddEvenElements.exe.config
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\21_OddEvenElements\bin\Debug\21_OddEvenElements.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\21_OddEvenElements\bin\Debug\21_OddEvenElements.pdb
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\21_OddEvenElements\obj\Debug\21_OddEvenElements.csprojResolveAssemblyReference.cache
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\21_OddEvenElements\obj\Debug\21_OddEvenElements.exe
+D:\SoftUni\00_Programming Basics\Homework\Homework_07\Loops\21_OddEvenElements\obj\Debug\21_OddEvenElements.pdb
