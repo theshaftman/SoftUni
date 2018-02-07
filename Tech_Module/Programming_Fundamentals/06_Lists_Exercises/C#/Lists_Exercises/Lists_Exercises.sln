@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Max_Sequence_of_Equal_Elements", "01_Max_Sequence_of_Equal_Elements\01_Max_Sequence_of_Equal_Elements.csproj", "{72A0CE0C-1525-445A-9771-AFFA8D0D15C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Max_Sequence_of_Equal_Elements", "01_Max_Sequence_of_Equal_Elements\01_Max_Sequence_of_Equal_Elements.csproj", "{72A0CE0C-1525-445A-9771-AFFA8D0D15C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Change_List", "02_Change_List\02_Change_List.csproj", "{0F812BF1-F4EC-4FC3-90B6-F6191C539CAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Change_List", "02_Change_List\02_Change_List.csproj", "{0F812BF1-F4EC-4FC3-90B6-F6191C539CAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Search_for_a_Number", "03_Search_for_a_Number\03_Search_for_a_Number.csproj", "{D7E6E8CE-75EE-4862-8793-433139E0E6B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Search_for_a_Number", "03_Search_for_a_Number\03_Search_for_a_Number.csproj", "{D7E6E8CE-75EE-4862-8793-433139E0E6B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Sum_Reversed_Numbers", "06_Sum_Reversed_Numbers\06_Sum_Reversed_Numbers.csproj", "{F340088A-61AA-4E64-BD5B-FB3595D9F573}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Sum_Reversed_Numbers", "06_Sum_Reversed_Numbers\06_Sum_Reversed_Numbers.csproj", "{F340088A-61AA-4E64-BD5B-FB3595D9F573}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Bomb_Numbers", "07_Bomb_Numbers\07_Bomb_Numbers.csproj", "{AB99AF7C-3FF5-4A32-A25F-D7A4F74C77A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_Bomb_Numbers", "07_Bomb_Numbers\07_Bomb_Numbers.csproj", "{AB99AF7C-3FF5-4A32-A25F-D7A4F74C77A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Longest_Increasing_Subsequence", "04_Longest_Increasing_Subsequence\04_Longest_Increasing_Subsequence.csproj", "{9DF5C1F3-4A9C-4232-985E-90D5BC8C70A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Array_Manipulator", "05_Array_Manipulator\05_Array_Manipulator.csproj", "{C2CE557E-37ED-48E4-ABB4-1176432FF5F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{AB99AF7C-3FF5-4A32-A25F-D7A4F74C77A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB99AF7C-3FF5-4A32-A25F-D7A4F74C77A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB99AF7C-3FF5-4A32-A25F-D7A4F74C77A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF5C1F3-4A9C-4232-985E-90D5BC8C70A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF5C1F3-4A9C-4232-985E-90D5BC8C70A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF5C1F3-4A9C-4232-985E-90D5BC8C70A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF5C1F3-4A9C-4232-985E-90D5BC8C70A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CE557E-37ED-48E4-ABB4-1176432FF5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CE557E-37ED-48E4-ABB4-1176432FF5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CE557E-37ED-48E4-ABB4-1176432FF5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CE557E-37ED-48E4-ABB4-1176432FF5F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
